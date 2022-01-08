@@ -21,6 +21,15 @@ namespace ConsoleApp1
             }
 
         }
+        public static void resetGame()
+        {
+            for(int i = 0; i < 9; i++)
+            {
+                ticTacToeList[i] = Convert.ToChar(i);
+            }
+            
+
+        }
         public static void askInput()
         {
 
