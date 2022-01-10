@@ -1,0 +1,30 @@
+C:\Users\jhatc\Documents\c#\cse210-01\Tic-Tac\bin\Debug\net6.0\Tic-Tac.exe
+C:\Users\jhatc\Documents\c#\cse210-01\Tic-Tac\bin\Debug\net6.0\Tic-Tac.deps.json
+C:\Users\jhatc\Documents\c#\cse210-01\Tic-Tac\bin\Debug\net6.0\Tic-Tac.runtimeconfig.json
+C:\Users\jhatc\Documents\c#\cse210-01\Tic-Tac\bin\Debug\net6.0\Tic-Tac.dll
+C:\Users\jhatc\Documents\c#\cse210-01\Tic-Tac\bin\Debug\net6.0\ref\Tic-Tac.dll
+C:\Users\jhatc\Documents\c#\cse210-01\Tic-Tac\bin\Debug\net6.0\Tic-Tac.pdb
+C:\Users\jhatc\Documents\c#\cse210-01\Tic-Tac\obj\Debug\net6.0\Tic-Tac.csproj.AssemblyReference.cache
+C:\Users\jhatc\Documents\c#\cse210-01\Tic-Tac\obj\Debug\net6.0\Tic-Tac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhatc\Documents\c#\cse210-01\Tic-Tac\obj\Debug\net6.0\Tic-Tac.AssemblyInfoInputs.cache
+C:\Users\jhatc\Documents\c#\cse210-01\Tic-Tac\obj\Debug\net6.0\Tic-Tac.AssemblyInfo.cs
+C:\Users\jhatc\Documents\c#\cse210-01\Tic-Tac\obj\Debug\net6.0\Tic-Tac.csproj.CoreCompileInputs.cache
+C:\Users\jhatc\Documents\c#\cse210-01\Tic-Tac\obj\Debug\net6.0\Tic-Tac.dll
+C:\Users\jhatc\Documents\c#\cse210-01\Tic-Tac\obj\Debug\net6.0\ref\Tic-Tac.dll
+C:\Users\jhatc\Documents\c#\cse210-01\Tic-Tac\obj\Debug\net6.0\Tic-Tac.pdb
+C:\Users\jhatc\Documents\c#\cse210-01\Tic-Tac\obj\Debug\net6.0\Tic-Tac.genruntimeconfig.cache
+C:\Users\jhatc\Documents\c#\cse210-01\Tic-Tac-Toe(using vscode)\bin\Debug\net6.0\Tic-Tac.exe
+C:\Users\jhatc\Documents\c#\cse210-01\Tic-Tac-Toe(using vscode)\bin\Debug\net6.0\Tic-Tac.deps.json
+C:\Users\jhatc\Documents\c#\cse210-01\Tic-Tac-Toe(using vscode)\bin\Debug\net6.0\Tic-Tac.runtimeconfig.json
+C:\Users\jhatc\Documents\c#\cse210-01\Tic-Tac-Toe(using vscode)\bin\Debug\net6.0\Tic-Tac.dll
+C:\Users\jhatc\Documents\c#\cse210-01\Tic-Tac-Toe(using vscode)\bin\Debug\net6.0\ref\Tic-Tac.dll
+C:\Users\jhatc\Documents\c#\cse210-01\Tic-Tac-Toe(using vscode)\bin\Debug\net6.0\Tic-Tac.pdb
+C:\Users\jhatc\Documents\c#\cse210-01\Tic-Tac-Toe(using vscode)\obj\Debug\net6.0\Tic-Tac.csproj.AssemblyReference.cache
+C:\Users\jhatc\Documents\c#\cse210-01\Tic-Tac-Toe(using vscode)\obj\Debug\net6.0\Tic-Tac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhatc\Documents\c#\cse210-01\Tic-Tac-Toe(using vscode)\obj\Debug\net6.0\Tic-Tac.AssemblyInfoInputs.cache
+C:\Users\jhatc\Documents\c#\cse210-01\Tic-Tac-Toe(using vscode)\obj\Debug\net6.0\Tic-Tac.AssemblyInfo.cs
+C:\Users\jhatc\Documents\c#\cse210-01\Tic-Tac-Toe(using vscode)\obj\Debug\net6.0\Tic-Tac.csproj.CoreCompileInputs.cache
+C:\Users\jhatc\Documents\c#\cse210-01\Tic-Tac-Toe(using vscode)\obj\Debug\net6.0\Tic-Tac.dll
+C:\Users\jhatc\Documents\c#\cse210-01\Tic-Tac-Toe(using vscode)\obj\Debug\net6.0\ref\Tic-Tac.dll
+C:\Users\jhatc\Documents\c#\cse210-01\Tic-Tac-Toe(using vscode)\obj\Debug\net6.0\Tic-Tac.pdb
+C:\Users\jhatc\Documents\c#\cse210-01\Tic-Tac-Toe(using vscode)\obj\Debug\net6.0\Tic-Tac.genruntimeconfig.cache
